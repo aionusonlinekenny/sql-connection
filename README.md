@@ -1,10 +1,10 @@
 # SQL Connection
 
-Công cụ quản lý **MySQL / MariaDB** cho Windows — duyệt và sửa dữ liệu, SQL editor có gợi ý, thiết kế bảng,
-so sánh cấu trúc, sơ đồ ER, quản lý người dùng, SSH tunnel, sao lưu.
+Công cụ quản lý **MySQL / MariaDB** và **PostgreSQL** cho Windows — duyệt và sửa dữ liệu, SQL editor có gợi ý, thiết kế bảng,
+EXPLAIN trực quan, theo dõi server, so sánh cấu trúc và dữ liệu, sơ đồ ER, quản lý người dùng, SSH tunnel, sao lưu.
 
-A **MySQL / MariaDB** manager for Windows — browse and edit data, SQL editor with completion, table designer,
-schema compare, ER diagram, user management, SSH tunnel, backups. Vietnamese and English UI.
+A **MySQL / MariaDB** and **PostgreSQL** manager for Windows — browse and edit data, SQL editor with completion, table designer,
+visual EXPLAIN, server monitor, schema and data compare, ER diagram, user management, SSH tunnel, backups. Vietnamese and English UI.
 
 ## Tải về / Download
 
